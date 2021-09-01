@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include kenyan_payroll_reports *.css
+recursive-include kenyan_payroll_reports *.csv
+recursive-include kenyan_payroll_reports *.html
+recursive-include kenyan_payroll_reports *.ico
+recursive-include kenyan_payroll_reports *.js
+recursive-include kenyan_payroll_reports *.json
+recursive-include kenyan_payroll_reports *.md
+recursive-include kenyan_payroll_reports *.png
+recursive-include kenyan_payroll_reports *.py
+recursive-include kenyan_payroll_reports *.svg
+recursive-include kenyan_payroll_reports *.txt
+recursive-exclude kenyan_payroll_reports *.pyc
