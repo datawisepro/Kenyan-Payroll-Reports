@@ -4,7 +4,7 @@ Kenyan Payroll Report is an App that consist of NSSF, NHIF, HELB, Bank Payroll A
 
 ## How to Install
 
-1. bench get-app https://github.com/Douglas-Nkubitu/Kenyan-Payroll-Reports.git
+1. bench get-app https://github.com/navariltd/Kenyan-Payroll-Reports.git
 2. bench setup requirements
 3. bench build --app kenyan_payroll_reports
 4. bench restart
