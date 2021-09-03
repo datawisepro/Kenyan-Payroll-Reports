@@ -1,6 +1,6 @@
 ## Kenyan Payroll Reports
 
-Kenyan Payroll Report App
+Kenyan Payroll Report is an App that consist of NSSF, NHIF, HELB, Bank Payroll Advice, Payroll Register and P9A Tax Deduction Card. 
 
 ## How to Install
 
@@ -11,6 +11,3 @@ Kenyan Payroll Report App
 5. bench --site [your.site.name] install-app kenyan_payroll_reports
 6. bench --site [your.site.name] migrate
 
-#### License
-
-MIT
