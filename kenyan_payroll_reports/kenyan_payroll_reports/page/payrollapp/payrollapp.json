@@ -1,0 +1,26 @@
+{
+ "content": null,
+ "creation": "2021-09-02 10:30:22.888236",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2021-09-02 10:30:22.888236",
+ "modified_by": "Administrator",
+ "module": "Kenyan Payroll Reports",
+ "name": "payrollapp",
+ "owner": "Administrator",
+ "page_name": "payrollapp",
+ "roles": [
+  {
+   "role": "HR Manager"
+  },
+  {
+   "role": "HR User"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Kenyan Payroll Reports"
+}

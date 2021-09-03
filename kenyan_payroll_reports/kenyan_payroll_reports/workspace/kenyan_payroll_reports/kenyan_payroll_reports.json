@@ -1,0 +1,75 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Your Shortcuts\",\"level\":3,\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"NHIF Report\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"NSSF Report\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"HELB Report\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Bank Payroll Advice\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Payroll Register\",\"col\":4}},{\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"P9A Tax Deduction Card\",\"col\":4}}]",
+ "creation": "2021-09-03 11:08:15.697655",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "icon": "money-coins-1",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 0,
+ "label": "Kenyan Payroll Reports",
+ "links": [],
+ "modified": "2021-09-03 11:53:28.946185",
+ "modified_by": "Administrator",
+ "module": "Kenyan Payroll Reports",
+ "name": "Kenyan Payroll Reports",
+ "owner": "Administrator",
+ "parent_page": "",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "public": 1,
+ "roles": [],
+ "sequence_id": 31,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "NHIF Report",
+   "link_to": "NHIF Report",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "NSSF Report",
+   "link_to": "NSSF Report",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "HELB Report",
+   "link_to": "HELB Report",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Bank Payroll Advice",
+   "link_to": "Bank Payroll Advice",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Payroll Register",
+   "link_to": "Payroll Register",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "P9A Tax Deduction Card",
+   "link_to": "P9A Tax Deduction Card",
+   "type": "Report"
+  }
+ ],
+ "shortcuts_label": "",
+ "title": "Kenyan Payroll Reports"
+}
